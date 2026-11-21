@@ -18,7 +18,7 @@ Roughly 10%–14% of online checkout attempts fail on the first try. Retrying ev
 ## How to Run
 
 ```text
-git clone [https://github.com/puneetgoswami1/payment-failure-recovery-analytics.git]
+git clone https://github.com/puneetgoswami1/payment-failure-recovery-analytics.git
 cd payment-failure-recovery-analytics
 
 pip install -r requirements.txt
